@@ -32,5 +32,3 @@ Include the js code at places, from where the reuest shall be sent. Code is avai
 #### Make Sure
 - The name of token is same in both `php library` and `js library`. In the php code its available on `line 14` as
 `define("CSRFP_TOKEN","csrfp_token");`. In the JS library its available as `CSRFP_TOKEN` inside the `CSRFP` class.
-
--
